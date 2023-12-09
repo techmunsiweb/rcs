@@ -44,3 +44,22 @@
     border-radius: 0;
     padding: 8px 25px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 575px){
+    .news_section .news_container .box {
+        width: 100%;
+        max-width: calc(100% / 1);
+        margin-bottom: 0px;
+    }
+}

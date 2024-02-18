@@ -44,17 +44,15 @@
     border-radius: 0;
     padding: 8px 25px;
 }
-
-
-
-
-
-
-
-
-
-
-
+.tel-call {
+    display: block;
+    background-color: var(--white);
+    margin-bottom: 15px;
+    padding: 6px 10px;
+    color: var(--black);
+    font-weight: 600;
+    border-radius: 4px;
+}
 
 @media(max-width: 575px){
     .news_section .news_container .box {
